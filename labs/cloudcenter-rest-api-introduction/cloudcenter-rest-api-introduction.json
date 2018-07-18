@@ -12,13 +12,13 @@
         "title": "REST"
     }],
     "files": [{
-        "title": "Cisco CloudCenter REST API Overview",
+        "title": "Cisco CloudCenter REST API",
         "file": "1.md"
     }, {
         "title": "Retrieve API Access Keys",
         "file": "2.md"
     }, {
-        "title": "Create, Update and Delete User via REST API",
+        "title": "Create, Update and Delete User",
         "file": "3.md"
     }],
     "related": [{

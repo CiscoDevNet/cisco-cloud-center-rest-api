@@ -12,10 +12,10 @@
         "title": "REST"
     }],
     "files": [{
-        "title": "Deploy a UCS Bare Metal Server Application Profile",
+        "title": "Deploy a Bare Metal Server",
         "file": "1.md"
     }, {
-        "title": "Deploy a Splunk Application Profile",
+        "title": "Deploy Splunk",
         "file": "2.md"
     }],
     "related": [{
