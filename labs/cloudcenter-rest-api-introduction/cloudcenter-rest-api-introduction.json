@@ -1,0 +1,30 @@
+{
+    "labId": "cloudcenter-rest-api-introduction",
+    "title": "Introduction to the Cisco CloudCenter REST API",
+    "slug": "This Introduction to Cisco CloudCenter REST API Learning Lab will guide you through the use of Cisco CloudCenter REST APIs to view and manage admin and user API Acess Keys, as well as the process of creating, updating and deleting users via the REST API.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "CloudCenter"
+    }, {
+        "title": "REST"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "cloudcenter-rest-api-application-profiles",
+        "title": "Deploying CloudCenter Application Profiles with the REST API"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}
