@@ -12,11 +12,14 @@
         "title": "REST"
     }],
     "files": [{
-        "title": "1.md"
+        "title": "Cisco CloudCenter REST API Overview",
+        "file": "1.md"
     }, {
-        "title": "2.md"
+        "title": "Retrieve API Access Keys",
+        "file": "2.md"
     }, {
-        "title": "3.md"
+        "title": "Create, Update and Delete User via REST API",
+        "file": "3.md"
     }],
     "related": [{
         "labId": "cloudcenter-rest-api-application-profiles",
