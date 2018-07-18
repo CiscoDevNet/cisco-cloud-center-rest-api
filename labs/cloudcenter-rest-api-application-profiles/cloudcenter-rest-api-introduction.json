@@ -1,7 +1,7 @@
 {
     "labId": "cloudcenter-rest-api-application-profiles",
-    "title": "Deploying CloudCenter Application Profiles with the REST API",
-    "slug": "This Deploying CloudCenter Application Profiles with the REST API Learning Lab will guide you through the use of Cisco CloudCenter REST APIs to deploy a CloudCenter Application Profile for a UCS Managed Blade and the deployment of a Splunk Application Profile.",
+    "title": "Deploying Cisco CloudCenter Application Profiles with the REST API",
+    "slug": "This Deploying Cisco CloudCenter Application Profiles with the REST API Learning Lab will guide you through the use of Cisco CloudCenter REST APIs to deploy a CloudCenter Application Profile for a UCS Managed Blade and the deployment of a Splunk Application Profile.",
     "time": "30",
     "byod": true,
     "tags": [{
@@ -12,14 +12,11 @@
         "title": "REST"
     }],
     "files": [{
-        "title": "1.md",
+        "title": "Deploy a UCS Bare Metal Server Application Profile",
         "file": "1.md"
     }, {
-        "title": "2.md",
+        "title": "Deploy a Splunk Application Profile",
         "file": "2.md"
-    }, {
-        "title": "3.md",
-        "file": "3.md"
     }],
     "related": [{
         "labId": "cloudcenter-rest-api-introduction",
